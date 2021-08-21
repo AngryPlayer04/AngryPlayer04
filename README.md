@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angryplayer04&show_icons=true&locale=en&theme=dark" alt="angryplayer04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angryplayer04&theme=dark&" alt="angryplayer04" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angryplayer04&theme=dark&" alt="angryplayer04" /></p>
