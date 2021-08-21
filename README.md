@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cássio Nhiemetz</h1>
-<h3 align="center">Hi, I'm Cássio Nhiemetz, beggining into Python.</h3>
+<h1 align="center">Hi 👋, I'm Cássio</h1>
+<h3 align="center">Hi, I'm Cássio Nhiemetz, I'm a Brazilian hobbyst beggining in Python.</h3>
 
 - 🔭 I’m currently working on **PaoBot**
 
