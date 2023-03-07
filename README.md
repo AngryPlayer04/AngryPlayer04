@@ -7,7 +7,6 @@
 
 - 🤝 I’m looking for help with [Pão Bot](https://github.com/AngryPlayer04/Pao-Bot)
 
-- 📫 How to reach me **cassionhieg@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,9 +20,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/angryplayer04"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="angryplayer04" /></a></p><br><br>
-<a>
-  </a>
-  
+<p>
+  &emsp;
+  </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=angryplayer04&show_icons=true&theme=dark&title_color=ffffff&text_color=d4d4d4" alt="angryplayer04" /></p>
 
