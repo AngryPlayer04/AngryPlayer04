@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cássio Nhiemetz</h1>
 <h3 align="center">A backend student, focusing on Python</h3>
 
-- 🔭 I’m currently working on [Pão Bot](https://github.com/AngryPlayer04/Pao-Bot)
+- 🔭 I’m currently working on [Pão Bot](https://github.com/AngryPlayer04/PaoBot)
 
 - 🌱 I’m currently learning **Python, Discord.py,**
 
-- 🤝 I’m looking for help with [Pão Bot](https://github.com/AngryPlayer04/Pao-Bot)
+- 🤝 I’m looking for help with [Pão Bot](https://github.com/AngryPlayer04/PaoBot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
