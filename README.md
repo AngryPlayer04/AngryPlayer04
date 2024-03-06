@@ -7,6 +7,8 @@
 
 - 🤝 I’m looking for help with [homepage](https://github.com/AngryPlayer04/homepage)
 
+- 🌳 Linktree [linktr.ee/angr04](https://linktr.ee/angr04)
+
 - 💬 Ask me about **IT in general**
 
 - 📫 How to reach me **cassionhieg@proton.me**
