@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cássio Nhiemetz</h1>
 <h3 align="center">Apenas um mineiro amante de computadores.</h3>
 
-- 🔭 I’m currently working on [Pão Bot](https://github.com/AngryPlayer04/PaoBot)
+- 🔭 I’m currently working on **None**
 
 - 🌱 I’m currently learning **C, Python**
 
