@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **C, Python**
 
-- 🤝 Estou procurando ajuda com a [Homepage](https://github.com/AngryPlayer04/homepage)
+- 🤝 Estou procurando ajuda com [Homepage](https://github.com/AngryPlayer04/homepage)
 
 - 🌳 [linktr.ee/angr04](https://linktr.ee/angr04)
 
